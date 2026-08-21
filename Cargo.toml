@@ -1,0 +1,13 @@
+[package]
+name = "quat_os_256"
+version = "0.1.0"
+edition = "2021"
+authors = ["Strale <strahinjastojanovic826@gmail.com>"]
+description = "Kratak opis tvog simulatora / projekta"
+license = "GPL-2.0-or-later" 
+readme = "README.md"
+
+[dependencies]
+eframe = "0.27"
+rand = "0.10.2"
+rodio = "0.19"
