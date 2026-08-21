@@ -39,7 +39,8 @@ git clone [https://github.com/YOUR_USERNAME/quat-os.git](https://github.com/YOUR
 cd quat-os
 
 # Run the simulation
-cargo run 
+cargo run
+'''
 
 <img width="1920" height="1080" alt="Screenshot 2026-08-21 211126" src="https://github.com/user-attachments/assets/cfa71f7e-513e-4d04-b8db-7e48b0975304" />
 
