@@ -4,6 +4,7 @@ version = "0.1.0"
 edition = "2021"
 authors = ["Strale <strahinjastojanovic826@gmail.com>"]
 description = "Kratak opis tvog simulatora / projekta"
+repository = "https://github.com/strahinjastojanovic826-code/4-4-quat-os-simulation-in-rust/edit/main/Cargo.toml"
 license = "GPL-2.0-or-later" 
 readme = "README.md"
 
