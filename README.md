@@ -41,15 +41,12 @@ cd quat-os
 # Run the simulation
 cargo run 
 
-<img width="1920" height="1080" alt="Screenshot 2026-08-21 211040" src="https://github.com/user-attachments/assets/16acfad7-1940-4e97-87d6-916674603fae" />
+<img width="1920" height="1080" alt="Screenshot 2026-08-21 211126" src="https://github.com/user-attachments/assets/cfa71f7e-513e-4d04-b8db-7e48b0975304" />
 
+<img width="1920" height="1080" alt="Screenshot 2026-08-21 211102" src="https://github.com/user-attachments/assets/eab87f3f-40be-4ce8-9f18-ed28e59da457" />
 
+<img width="1920" height="1080" alt="Screenshot 2026-08-21 211040" src="https://github.com/user-attachments/assets/8f3556a5-5f95-41bf-ab8b-482f63056364" />
 
-<img width="1920" height="1080" alt="Screenshot 2026-08-21 211126" src="https://github.com/user-attachments/assets/6834e982-a32d-42c4-93b4-6af2357e259f" />
-
-
-
-<img width="1920" height="1080" alt="Screenshot 2026-08-21 211102" src="https://github.com/user-attachments/assets/ee1f96e7-4127-4f78-9155-6011b3a2b250" />
 
 
 
